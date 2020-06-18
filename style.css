@@ -1,0 +1,30 @@
+
+.square {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-color: black;
+  }
+  
+  .grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .mole {
+    background-image: url('mole.jpg');
+    background-size: cover;
+  }
+
+  .colr
+  {
+    background-color: crimson;
+  }
+
+  .col{
+    background-color: darkolivegreen;
+  }
